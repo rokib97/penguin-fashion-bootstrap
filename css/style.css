@@ -12,3 +12,24 @@ h2 {
 .nav-link {
   margin: 0px 15px;
 }
+.button-color {
+  width: 170px;
+  height: 60px;
+  background: linear-gradient(180deg, #a4bc46 0%, #85a019 100%);
+  border-radius: 10px;
+}
+.custom-color {
+  color: #363958;
+}
+.price-color {
+  font-weight: 900;
+  font-size: 36px;
+}
+.pic-size {
+  width: 599px;
+  height: 354px;
+}
+.logo-size {
+  width: 85px;
+  height: 87px;
+}
